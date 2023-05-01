@@ -194,7 +194,6 @@ html ::-webkit-scrollbar{
 }
 
 #menu .card{
-    padding: 10px;
     box-shadow: rgba(149,157,165,0.2) 0px 8px 24px;
 }
 
@@ -219,6 +218,40 @@ html ::-webkit-scrollbar{
     float: right;
     cursor: pointer;
 }
+
+#product{
+    width: 100%;
+}
+
+.heading4{
+    text-align: center;
+    color: #b2744c;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 100px;
+    border-bottom: 2px solid #b2744c;
+}
+
+#container3{
+    margin-top: 30px;
+}
+
+#product h3{
+    font-size: 23px;
+    text-align: center;
+    color: #b2744c;
+}
+
+#product p{
+    color: #b2744c;
+    padding-top: 10px;
+}
+
+#product p span{
+    float: right;
+    cursor: pointer;
+}
+
 
 
 
