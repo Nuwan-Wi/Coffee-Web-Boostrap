@@ -176,7 +176,49 @@ html ::-webkit-scrollbar{
     transform: translateY(-10px);
 }
 
+#menu{
+    margin-top: 60px;
+    width: 100%;
+}
 
+.heading3{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: #b2744c;
+    border-bottom: 2px solid #b2744c;
+}
+
+#container2{
+    margin-top: 30px;
+}
+
+#menu .card{
+    padding: 10px;
+    box-shadow: rgba(149,157,165,0.2) 0px 8px 24px;
+}
+
+.star i{
+    color: #b2744c;
+}
+
+#menu h3{
+    font-size: 25px;
+    text-align: center;
+    color: #b2744c;
+    margin-top: 10px;
+}
+
+#menu p{
+    font-size: 16px;
+    color: #b2744c;
+    margin-top: 10px;
+}
+
+#menu p span{
+    float: right;
+    cursor: pointer;
+}
 
 
 
