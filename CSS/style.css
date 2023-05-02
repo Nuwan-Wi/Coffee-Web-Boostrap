@@ -356,6 +356,37 @@ html ::-webkit-scrollbar{
     margin-right: 10px;
 }
 
+#blog{
+    width: 100%;
+}
+
+#blog .container{
+    margin-top: 60px;
+}
+
+#blog h5{
+    color: #b2744c;
+}
+
+#blog-btn{
+    width: 200px;
+    height: 36px;
+    border: none;
+    color: white;
+    background: #b2744c;
+    cursor: pointer;
+}
+
+#blog-btn:hover{
+    color: #f7f5f2;
+    background: #7e4a27;
+}
+
+
+
+
+
+
 
 @media screen and (max-width:982px) {
     #about p{
